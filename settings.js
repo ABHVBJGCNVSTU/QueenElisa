@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==QUPdTZ5QXLjR1aqVVYtlDd3JHOn5GZW5WVtx2Z10SYpJETwl3URdWN092djQ0NUxmQzRGcpwd=841793411329',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -17,22 +17,22 @@ module.exports = {
 ☫ Work Mode : @mode
 ☫ Work Type : @worktype
 
-Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
+Mian-Amir`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://tariqaqib980:qB3fEtp0d7ipptXm@cluster0.8gd8f.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  BOT_NAME: 'AMIR',
+  OWNER_NAME: 'Mian Amir',
+  OWNER_NUMBER: '923114397148',
+  SUDO: '923114397148',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
-  TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
+  TIME_ZONE: 'Asia/Lahore',
+  CAPTION: 'Mian-Amir',
+  STICKER_AUTHOR: 'Amir',
+  STICKER_PACK: 'Amir',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '👽',
